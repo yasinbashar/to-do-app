@@ -19,7 +19,7 @@ function AddTodo({ onNewItem }) {
   };
 
   return (
-    <div className="container text-center">
+    <div className=" container text-center mt ">
       <div className="row kg-row">
         <div className="col-6">
           <input

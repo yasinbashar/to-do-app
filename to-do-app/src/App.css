@@ -1,15 +1,17 @@
 
-/* .todo-container{
+.todo-container{
   
-  /* text-align: center;
+  text-align: center;
   margin-left: 290px;
-  margin-bottom: 45%; */
-  /* background-color: beige;
+  margin-bottom: 45%;
+   background-color: beige;
   border: 1px solid black;
-  width: 100%; */
+  width: 100%;
+}
 
 *{
   text-align: center;
+  max-width: 60vw;
 }
 
 
