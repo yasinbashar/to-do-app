@@ -1,0 +1,44 @@
+
+/* .todo-container{
+  
+  /* text-align: center;
+  margin-left: 290px;
+  margin-bottom: 45%; */
+  /* background-color: beige;
+  border: 1px solid black;
+  width: 100%; */
+
+*{
+  text-align: center;
+}
+
+
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+input {
+  width: 100%;
+}
+
+.items-container {
+  text-align: left;
+}
+
+.kg-button {
+  min-width: 80px;
+}
+
+.kg-row {
+  margin: 10px 5px;
+  
+}
+
+.welcome {
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 600;
+}
